@@ -1,4 +1,4 @@
-# Laravel Multitenancy
+### Laravel Multitenancy
 
 ![Project Screenshot](https://github.com/masterfiras101/laravel-multitenancy-project/blob/f9dff79032c188492ad6499a54cc8e929e33f065/public/assets/screenshots/index_page.png)
 
